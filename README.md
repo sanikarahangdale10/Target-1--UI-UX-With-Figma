@@ -6,7 +6,7 @@
 📖 Topics to Cover
 
 
-Task 1 - Creating Shapes (1 hour)
+# Task 1 - Creating Shapes (1 hour)
 
 Use the Shape Tool to draw:
 
@@ -19,7 +19,7 @@ Line
 Adjust fill color, stroke, corner radius, shadows
 
 
-Task 2 -Working with Text(1 hour)
+# Task 2 -Working with Text(1 hour)
 
 Insert text boxes using the T key
 
@@ -38,7 +38,7 @@ Letter spacing
 Use text alignment options (left, center, right)
 
 
-Task 3 - Using Frames to Structure Layouts(1 & half hour)
+# Task 3 - Using Frames to Structure Layouts(1 & half hour)
 
 Create frames  for screens, cards, modals
 
@@ -47,7 +47,7 @@ Resize and set constraints for responsive designs
 Nest frames within frames for better structuring
 
 
-Task 4 - Grids, Columns, and Spacing Rules(1 hours)
+# Task 4 - Grids, Columns, and Spacing Rules(1 hours)
 
 Apply layout grids to frames:
 
@@ -62,7 +62,7 @@ Set margin, gutter, and column count
 Apply consistent spacing between elements using Figma’s alignment tools and grids
 
 
-Task 5 - Basic Alignment and Grouping(1 hour)
+# Task 5 - Basic Alignment and Grouping(1 hour)
 
 Use alignment tools (top, middle, bottom, left, right, distribute)
 
