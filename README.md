@@ -1,7 +1,7 @@
 # Target-1--UI-UX-With-Figma
 📁 Target 1 - UI/UX with Figma
 
-🎯 Mission 2 - Shapes, Text, and Layouts
+# 🎯 Mission 2 - Shapes, Text, and Layouts
 
 📖 Topics to Cover
 
